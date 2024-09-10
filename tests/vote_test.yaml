@@ -1,0 +1,16 @@
+---
+program: vote
+inputs:
+  vote_start_count: 0
+  vote_0: 1
+  vote_1: 1
+  vote_2: 3
+  vote_3: 1
+  vote_4: 2
+  vote_5: 3
+  vote_6: 1
+  vote_7: 3
+expected_outputs:
+  Candidate1: 4
+  Candidate2: 1
+  Candidate3: 3
