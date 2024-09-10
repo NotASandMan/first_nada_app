@@ -1,0 +1,7 @@
+name = "nada-vote-app"
+version = "0.1.0"
+authors = []
+
+[[programs]]
+path = "src/vote.py"
+prime_size = 128
